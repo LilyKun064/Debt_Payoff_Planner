@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# App private data
+cards_meta.json
+balances.json
+
+# Optional: Streamlit cache
+.streamlit/
