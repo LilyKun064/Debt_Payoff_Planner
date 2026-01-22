@@ -11,6 +11,7 @@ venv/
 # App private data
 cards_meta.json
 balances.json
+debt_calculator.py
 
 # Optional: Streamlit cache
 .streamlit/
